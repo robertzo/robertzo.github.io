@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Aug 2021 15:21:16 at https://robertzou.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://robertzou.com -O1 "C:\My Web Sites\My Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:21:16	Warning: 	HTML file (610 bytes) retransferred due to lack of cache: https://robertzou.com/
+15:23:09	Error: 	"Not Found" (404) at link https://robertzou.com/wp-content/uploads/2021/08/rachel-park-hrlvr2ZlUNk-unsplash-1-scaled-e1625508814624.jpg (from https://robertzou.com/about/)
+15:23:09	Warning: 	Moved Permanently for https://robertzou.com/author/robertzo/
+15:23:09	Warning: 	File has moved from https://robertzou.com/author/robertzo/ to https://robertzou.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 125 links scanned, 122 files written (6296428 bytes overall), 123 files updated [4148802 bytes received at 32161 bytes/sec], 3011102 bytes transferred using HTTP compression in 65 files, ratio 22%, 2.6 requests per connection
+(1 errors, 3 warnings, 0 messages)
